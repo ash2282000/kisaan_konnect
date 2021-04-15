@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70147365570",
+    "project_id": "kisaan-konnect-test-database",
+    "storage_bucket": "kisaan-konnect-test-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70147365570:android:436a2ecc8f8836eefff95b",
+        "android_client_info": {
+          "package_name": "com.example.kisaan_konnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70147365570-5i3jm5r9afog0i7jmk2oaqrojiao26nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisaan_konnect",
+            "certificate_hash": "f94b251351388aa80be6547fb31f51e1c2a5211f"
+          }
+        },
+        {
+          "client_id": "70147365570-moth00fpiu8okcrj8qrl8v4lhn19s5gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjR1lUgnkVMxG58bnp6OBcnvrBzSlvV8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70147365570-moth00fpiu8okcrj8qrl8v4lhn19s5gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
